@@ -4,7 +4,7 @@ A standard order management Java Spring Boot microservices project built to prac
 
 ## Goals
 
-- Build production-style Spring Boot microservices
+- Build production-grade Spring Boot microservices
 - Practice REST API design
 - Use Kafka for asynchronous communication
 - Use PostgreSQL for service data storage
