@@ -1,0 +1,10 @@
+ISSUE-1: Create order-service skeleton
+ISSUE-2: Add PostgreSQL integration
+ISSUE-3: Add order creation API
+ISSUE-4: Publish OrderCreated event to Kafka
+ISSUE-5: Consume event in inventory-service
+ISSUE-6: Add Docker Compose
+ISSUE-7: Add GitHub Actions CI pipeline
+ISSUE-8: Add unit and integration tests
+ISSUE-9: Add Prometheus metrics
+ISSUE-10: Add Grafana dashboard
